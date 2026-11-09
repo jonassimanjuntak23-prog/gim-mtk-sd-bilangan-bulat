@@ -1,0 +1,6 @@
+{
+  "name": "Petualangan Matematika Cerdas - SD TERAMIA",
+  "description": "Game edukasi matematika interaktif untuk siswa kelas VI SD berbasis Interactive Flat Panel (IFP) dengan konsep Pembelajaran Mendalam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
